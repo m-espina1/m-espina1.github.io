@@ -1,0 +1,156 @@
+@import url(https://fonts.googleapis.com/css?family=BenchNine:400,700,300|Amatic+SC:700);
+
+html {
+  background-color: rgb(235,224,245);
+}
+
+body {
+  font-family: "BenchNine", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 2px;
+  margin: 5px;
+}
+
+#wrapper {
+  margin: 0px auto;
+  max-width: 800px;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  color: black;
+  font-size: 72px;
+  text-align: center;
+  padding: 2px;
+  margin: 10px;
+}
+
+h2 {
+  font-size: 30px;
+  padding: -3px 2px;
+  margin: -5px 3px;
+}
+
+h3 {
+  font-size: 20px;
+  padding-top: 10px 2px;
+  padding-bottom: 10px 2px;
+  margin: -3px 4px;
+}
+
+section {
+  margin: 10px 3px;
+}
+
+article {
+  padding-top: -8px;
+  padding-bottom: -8px;
+}
+
+article ul {
+  padding-top: -5px;
+  padding-bottom: 8px;
+}
+
+p {
+  padding: -2px 2px;
+  margin: -2px 4px;
+}
+
+p em {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 3px;
+  border-top: 2px solid #222;
+  border-bottom: 2px solid #222;
+  padding: 3px;
+}
+
+nav li {
+  display: inline-block;;
+  width: 110px;
+  padding-left: 40px;
+}
+
+nav a {
+  text-align: center;
+  margin: 0px auto;
+}
+
+address {
+  font-style: normal;
+  padding-left: 2px;
+  padding-left: 2px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+i {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 3px;
+}
+
+a {
+  color: rgb(108,122,137);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(205,106,192);
+}
+
+a:hover {
+  color: rgb(117,183,209);
+}
+
+ul {
+  margin-top: -5px;
+  margin-bottom: 2px;
+}
+
+
+#left, #right {
+  width: 384px;
+  float: left;
+}
+
+#left {
+  margin-right: 20px;
+}
+
+#right {
+  border-left: 1px solid #222;
+  padding-left: 5px;
+}
+
+#printemail {
+  display: none;
+}
+
+#printlinkedin {
+  display: none;
+}
+
+#printtwitter {
+  display: none;
+}
+
+#contact {
+  border-bottom: 1px dotted #222;
+  padding: 2px 2px;
+  margin: 2px 2px;
+}
+
+#box1, #box2, #box3, #box4 {
+  border-bottom: 1px dotted #222;
+  padding: 5px 2px;
+  margin: 5px 2px;
+}

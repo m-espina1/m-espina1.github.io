@@ -1,0 +1,132 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+@page {
+  margin: 0.5in;
+}
+
+html {
+  background-color: white;
+}
+
+body {
+  background: transparent;
+  color: black;
+  font-size: 12pt;
+  font-family: serif;
+}
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 56pt;
+  color: black;
+  margin-top: -1cm;
+  margin-bottom: -1cm;
+  padding-top: .5cm;
+  padding-bottom: 1cm;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18pt;
+  margin-top: .25cm;
+  margin-bottom: .25cm;
+  padding: -.25cm -.25cm;
+}
+
+h3 {
+  font-size: 14pt;
+  margin-top: -.50cm;
+  margin-bottom: -.50cm;
+  padding-top: .5cm;
+  padding-bottom: .5cm;
+}
+
+address {
+  font-style: normal;
+}
+
+p {
+  margin-top: .05cm;
+  margin-bottom: .10cm;
+}
+
+p em {
+  margin-top: -.10cm;
+  margin-bottom: .30cm;
+}
+
+article p {
+  margin-top: -.10cm;
+  margin-bottom: .30cm;
+}
+
+nav {
+  display: none;
+}
+
+ul {
+  margin-top: -.25cm;
+  margin-bottom: .25cm;
+}
+
+a[href^"http"] {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+i {
+  padding-top: .1cm;
+  padding-bottom: .1cm;
+  padding-left: .1cm;
+  padding-right: .1cm;
+}
+
+#left, #right {
+  width: 3.25in;
+  float: left;
+}
+
+#left {
+  margin-right: .1in;
+}
+
+#right {
+  border-left: 1pt solid #222;
+  padding-left: .1in;
+}
+
+#contact {
+  border-bottom: 1pt dotted #222;
+  padding: -1cm 1cm;
+}
+
+#printemail {
+  margin-top: -.10cm;
+  margin-bottom: .30cm;
+}
+
+#printlinkedin{
+  margin-top: -.10cm;
+  margin-bottom: .30cm;
+}
+
+#printtwitter{
+  padding-top: -.10cm;
+  padding-bottom: .30cm;
+}
+
+#box1, #box2, #box3, #box4 {
+  border-bottom: 1pt dotted #222;
+  padding: -1cm 1cm;
+}
