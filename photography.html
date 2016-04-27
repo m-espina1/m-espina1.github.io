@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mercedes Espina</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="lightGallery/dist/css/lightgallery.css"/>
+    <link href="css/style.css" rel="stylesheet" media="screen"/>
+    <link href="css/print.css" rel="stylesheet" media="print"/>
+
+  </head>
+
+  <body>
+  <div id="wrapper">
+  <header>
+      <h1>Mercedes Espina</h1>
+        <nav>
+          <ul>
+            <li><a href="aboutme.html">about me</a></li>
+            <li><a href="photography.html">photography</a></li>
+            <li><a href="written-work.html">written work</a></li>
+            <li><a href="resume.html">resume &amp; contacts</a></li>
+          </ul>
+        </nav>
+  </header>
+
+  <h2>photography</h2>
+
+      <div id="photos">
+        <a href="portfolio-images/espina-boardwalk.jpg">
+          <img src="portfolio-images/espina-boardwalk-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-derby.jpg">
+          <img src="portfolio-images/espina-derby-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-derby2.jpg">
+          <img src="portfolio-images/espina-derby2-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-hockeyaction.jpg">
+          <img src="portfolio-images/espina-hockeyaction-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-hockeyaction2.jpg">
+          <img src="portfolio-images/espina-hockeyaction2-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-hockeyportrait.jpg">
+          <img src="portfolio-images/espina-hockeyportrait-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-rugbycandid.jpg">
+          <img src="portfolio-images/espina-rugbycandid-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-sandcastle.jpg">
+          <img src="portfolio-images/espina-sandcastle-thumbnail.jpg" />
+        </a>
+
+        <a href="portfolio-images/espina-sportsfeature.jpg">
+          <img src="portfolio-images/espina-sportsfeature-thumbnail.jpg" />
+        </a>
+      </div>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+      <script src="js/lightgallery.js"></script>
+      <script src="js/lg-thumbnail.js"></script>
+      <script src="js/lg-fullscreen.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+        // $("#photos").lightGallery();
+        $('#photos').lightGallery({
+          mode: 'lg-slide',
+          thumbnail: true,
+          speed: '200',
+          height: '100%',
+          width: '100%',
+          startClass: 'lg-start-zoom',
+          closable: true,
+          loop: true,
+          escKey: true,
+          keyPress: true,
+          enableTouch: true,
+          preload: 9
+});
+        });
+    </script>
+
+
+
+    </div>
+    </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mercedes Espina</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="css/style.css" rel="stylesheet" media="screen"/>
+    <link href="css/print.css" rel="stylesheet" media="print"/>
+  </head>
+
+  <body>
+  <div id="wrapper">
+  <header>
+      <h1>Mercedes Espina</h1>
+        <nav>
+          <ul>
+            <li><a href="aboutme.html">about me</a></li>
+            <li><a href="photography.html">photography</a></li>
+            <li><a href="written-work.html">written work</a></li>
+            <li><a href="resume.html">resume &amp; contacts</a></li>
+          </ul>
+        </nav>
+  </header>
+
+  <h2>written work.</h2>
+
+  <h3>Nationals stun Marlins with back-to-back home runs to tie series, 1-1</h3>
+
+  <p>Marlins Park was quiet for a Tuesday night, fans impatient as they watched the Miami Marlins go scoreless against the Washington Nationals for seven innings. There had been strikeout after strikeout, foul after foul ball into the stands as the innings ticked by, but there had yet been that moment they were waiting for. The moment where a fish made it home and sealed in another win.</p>
+  <p>Unfortunately, that moment never came.</p>
+  <p>In a moment that left Marlins fans speechless, the Nationals did the unthinkable, scoring back-to-back home runs at the top of the seventh, starting the run-scoring inning that ultimately sealed their 7-0 win over the Marlins.</p>
+  <p>First, it was Jayson Werth, knocking one into the waters of the Marlins’ home run sculpture for his 200th career home run. Then came Wilson Ramos, whose hit bounced delicately off the wall and out of reach of Marlins’ leftfielder Christian Yelich.</p>
+  <p>And, it was only downhill from there.</p>
+  <p>Despite a strong performance from pitcher Adam Conley through the first seven innings, the Marlins decided to call in for backup bringing in Nick Wittgreen, recent Marlins’ callup, for his Major League debut.</p>
+  <p>His debut was a quick one, being replaced by Chris Narverson after walking Anthony Rendon right on down to first base. But, a pitching change was not going to help the Marlins as big hitter Bryce Harper was up in the batting order, hungry for some solid contact after previously striking out.</p>
+  <p>From the beginning the series between the Marlins and the Nationals was a battle of the big bats between Giancarlo Stanton and Harper. Unfortunately for the Marlins, it looks like Harper was the only one who got the memo.</p>
+  <p>Hitting his second career Grand Slam, Harper managed to shatter the Marlins’ dreams of a comeback by putting the score up 6-0.</p>
+  <p>Stanton, however, only managed a fruitless double off 3 at-bats. His other two times at the plate resulted in two strikeouts at the hand of big man Stephen Strasburg.</p>
+  <p>And then, just to be safe, the Nationals went for another home run, Ryan Zimmerman sending a line drive into center field as a chorus of boos from roughly 16,000 Marlins fans filled the park. It was an enormous upset, one fans never saw coming after the Marlins had managed to beat the Nationals twice thus far.</p>
+  <p>Back-to-back home runs was one thing, but for it to happen twice in an inning, that was just discouraging.</p>
+  <p>With major lineup changes that sent Chris Johnson out to left field, Ichiro Suzuki to right field, and Derek Dietrich to second, the Marlins were hoping for an “Angels in the Outfield” miracle right until the ninth inning when the Nationals pulled Strasburg from the mound following his stellar eight-inning performance in which he gave the Marlins a meager 3 hits and threw a jaw dropping 10 strikeouts.</p>
+  <p>That is when the Marlins—and their fans—knew it was over.</p>
+  <p>Even with the slim comeback hope following hits from Suzuki and Johnson, the Nationals had settled the score early, giving the fish no chance to recover.</p>
+  <p>“We know each and every time we go out on the field that we have a chance to win,” said Dietrich, “And, that we just have to take care of business, and things will get going in the right direction.”</p>
+
+
+  <a href="written-work.html">return.</a>
+
+</div>
+</body>
+</html>

@@ -12,6 +12,18 @@ body {
   margin: 5px;
 }
 
+.photos div img {
+  width: 300px;
+}
+
+footer {
+  font-family: "BenchNine", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  padding: 2px;
+  margin: 5px;
+}
+
 #wrapper {
   margin: 0px auto;
   max-width: 800px;
@@ -114,6 +126,10 @@ a:hover {
 ul {
   margin-top: -5px;
   margin-bottom: 2px;
+}
+
+li {
+  list-style: none;
 }
 
 
