@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Martel:900|BenchNine:400,300,700);
 
 @page {
   margin: 0.5in;
@@ -16,13 +16,22 @@ body {
 }
 
 h1 {
-  font-family: 'Amatic SC', cursive;
-  font-size: 56pt;
+  font-family: 'Martel', serif;
+  font-size: 42pt;
   color: black;
-  margin-top: -1cm;
+  text-align: center;
+  margin-top: -.5cm;
   margin-bottom: -1cm;
-  padding-top: .5cm;
-  padding-bottom: 1cm;
+}
+
+header h2 {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 18pt;
+  color: black;
+  margin-top: -.5cm;
+  margin-bottom: -.5cm;
+  padding-top: .25cm;
+  padding-bottom: .5cm;
   text-align: center;
 }
 
