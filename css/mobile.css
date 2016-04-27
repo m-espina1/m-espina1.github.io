@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Martel:900|BenchNine:400,300,700);
 
-@mobile {
-  max-width: 320px;
-}
+@media {
 
 html {
   background-color: white;
@@ -86,4 +84,6 @@ address {
 
 #writing {
   display: none;
+}
+
 }
