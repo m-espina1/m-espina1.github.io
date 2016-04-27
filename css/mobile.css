@@ -47,7 +47,15 @@ p {
   display: none;
 }
 
-nav {
+nav ul {
+  display: none;
+}
+
+nav li {
+  display: none;
+}
+
+nav a {
   display: none;
 }
 
@@ -64,10 +72,14 @@ address {
 }
 
 #mobile {
-  text-align: center; 
+  text-align: center;
   font-style: normal;
   padding-left: 2px;
   padding-left: 2px;
   margin-left: 3px;
   margin-right: 3px;
+}
+
+#writing {
+  display: none;
 }
