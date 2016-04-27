@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=BenchNine:400,700,300|Amatic+SC:700);
+@import url(https://fonts.googleapis.com/css?family=Martel:900|BenchNine:400,300,700);
 
 html {
-  background-color: rgb(235,224,245);
+  background-color: white;
 }
 
 body {
@@ -12,16 +12,12 @@ body {
   margin: 5px;
 }
 
-.photos div img {
-  width: 300px;
-}
 
-footer {
-  font-family: "BenchNine", sans-serif;
-  font-weight: 400;
-  font-size: 12px;
-  padding: 2px;
-  margin: 5px;
+header h2 {
+  font-family: 'BenchNine', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  text-align: center;
 }
 
 #wrapper {
@@ -30,13 +26,13 @@ footer {
 }
 
 h1 {
-  font-family: 'Amatic SC', cursive;
-  font-weight: 700;
+  font-family: 'Martel', serif;
+  font-weight: 900;
   color: black;
-  font-size: 72px;
+  font-size: 80px;
   text-align: center;
   padding: 2px;
-  margin: 10px;
+  margin: -30px 10px -50px 10px;
 }
 
 h2 {
@@ -66,7 +62,18 @@ article ul {
   padding-bottom: 8px;
 }
 
-p {
+article p {
+  padding: -2px 2px;
+  margin: -2px 4px;
+}
+
+section p {
+  padding: -2px 2px;
+  margin: -2px 4px;
+}
+
+#writing p {
+  text-indent: 20px;
   padding: -2px 2px;
   margin: -2px 4px;
 }
@@ -79,15 +86,15 @@ p em {
 nav ul {
   list-style: none;
   margin: 3px;
-  border-top: 2px solid #222;
-  border-bottom: 2px solid #222;
+  border-top: 1px solid #222;
+  border-bottom: 1px solid #222;
   padding: 3px;
 }
 
 nav li {
-  display: inline-block;;
-  width: 110px;
-  padding-left: 40px;
+  display: inline-block;
+  width: 150px;
+  padding-left: 45px;
 }
 
 nav a {
@@ -111,16 +118,16 @@ i {
 }
 
 a {
-  color: rgb(108,122,137);
+  color: rgb(80,27,41);
   text-decoration: none;
 }
 
 a:visited {
-  color: rgb(205,106,192);
+  color: rgb(25,47,77);
 }
 
 a:hover {
-  color: rgb(117,183,209);
+  color: rgb(209,122,117);
 }
 
 ul {
@@ -128,10 +135,9 @@ ul {
   margin-bottom: 2px;
 }
 
-li {
-  list-style: none;
+.photos div img {
+  width: 300px;
 }
-
 
 #left, #right {
   width: 384px;
@@ -169,4 +175,12 @@ li {
   border-bottom: 1px dotted #222;
   padding: 5px 2px;
   margin: 5px 2px;
+}
+
+#writing {
+  padding: 5px;
+}
+
+#mobile {
+  display: none;
 }
